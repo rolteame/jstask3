@@ -38,4 +38,4 @@ function myFunction(num) {
 }
 // calling myFunction.
 console.log(myFunction(100))
-console.log(myFunction(18));
+console.log(myFunction(25));
